@@ -3,8 +3,6 @@
 
 ### Scenario
 
-Review the scenario below. Then complete the step-by-step instructions.
-
 You are an e-commerce analyst for Personalized Presents, an e-commerce business that sells personalized gifts, decorations, and apparel. Personalized Presents generally experiences a large increase in sales around the holiday season in the United States (from Thanksgiving through New Year’s). Your goal for this holiday season is to maximize profits, and you have used Performance Planner to calculate how much revenue you'd gain at different ad spend amounts. Given the data, you need to determine a target ROAS and recommended budget for this period.
 
 Additionally, Personalized Presents typically has drastic swings in revenue-per-click during the holiday period. In order to maximize your profits while still meeting your target ROAS, you need to analyze a calendar that contains last year’s revenue-per-click performance data and calculate how much to adjust your bids on certain days during the upcoming holiday season. 
