@@ -86,6 +86,12 @@ Enter the values from the Typical Revenue-per-click and Projected Holiday Revenu
 Add “increase” or “decrease” after the percentages to indicate whether you want to increase or decrease your bids on that group of days. If you do not want to adjust your typical bid on a group of days, enter “no change.” 
 
 
+
+
+Here is the [answer](https://docs.google.com/spreadsheets/d/1jef_EsLHcOcfkIWfgYWoGx7Y5kMEaz4QEk8ajAWhmyI/edit?gid=1484411678#gid=1484411678)
+
+
+
 <img width="1073" alt="image" src="https://github.com/user-attachments/assets/9f02f1d0-022d-4144-a310-2f1d0c3dc54e">
 
 
